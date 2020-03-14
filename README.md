@@ -1,2 +1,2 @@
-# pic
+# cdn
 my pic repo
